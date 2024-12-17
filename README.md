@@ -1,7 +1,9 @@
+<img width="100%" src="https://64.media.tumblr.com/452115a94309de388a764d1fd618c39f/tumblr_inline_p08wz4jeSI1qdiwz3_540.gif"/>
+
 <h1 align="center">Hi 👋, I'm Jedd Benidick Salvador</h1>
 <h3 align="center">A passionate software developer from the Philippines</h3>
 
-<img align="right" alt="eager" width="400" src="https://media1.tenor.com/m/NqNPwonCSIIAAAAd/strawberry-celeste.gif"/>
+<img align="right" alt="eager" height="400" width="400" src="https://media1.tenor.com/m/NqNPwonCSIIAAAAd/strawberry-celeste.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-jeddi-tip&label=Profile%20views&color=0e75b6&style=flat" alt="the-jeddi-tip" /> </p>
 
